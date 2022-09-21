@@ -29,6 +29,10 @@ const TourSchema = mongoose.Schema(
                 message: "Status can't be {VALUE}",
             },
         },
+        viewCount: {
+            type: Number,
+            default: 0,
+        },
         location: {
             type: String,
         },

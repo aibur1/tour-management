@@ -18,5 +18,6 @@ exports.createToursService = async (data) => {
 
 exports.getTourByIdService = async (id) => {
     const tourDetail = await Tour.findOne({ _id: id });
+
     return tourDetail;
 };

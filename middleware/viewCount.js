@@ -1,9 +1,9 @@
 let count = 0;
 
-const viewCount = (req, res, next) => {
+const viewCount = async (req, res, next) => {
     count++;
     console.log(count);
-    // res.send('tools found!')
+
     next();
 };
 

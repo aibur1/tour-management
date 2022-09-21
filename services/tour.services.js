@@ -6,7 +6,7 @@ exports.updateTourByIdService = async (tourId, data) => {
         { $set: data },
         {
             runValidators: true,
-        },
+        }
     );
 
     return result;
@@ -16,16 +16,7 @@ exports.getToursByTrendingServices = async () => {
     console.log('Tour with trending!');
 };
 exports.getToursByCheapestServices = async () => {
-    const result = await Tour.aggregate([
-        {
-            $group: {
-                _id: '$price',
-                docs: { $push: '$$ROOT' },
-            },
-        },
-        { $sort: { _id: 1 } },
-        { $limit: 3 },
-    ]);
+    const result = Tour.find({}).limit(3).sort('price');
     return result;
     // console.log('Tour with cheapest!');
 };

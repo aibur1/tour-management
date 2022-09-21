@@ -3,6 +3,7 @@
     "name": "Coxbazar to Saintmartin",
     "description": "Our special service for all the tour lovers.You can enjoy a special service in this tour.Most interesting family tours for you.",
     "price": 10000,
+    "viewCount":0,
     "status": "in-service",
     "location": "CoxBazar"
   },
@@ -10,6 +11,7 @@
     "name": "Teknaf to Saintmartin",
     "description": "Our special service for all the tour lovers.You can enjoy a special service in this tour.Most interesting family tours for you.",
     "price": 5000,
+    "viewCount":0,
     "status": "in-service",
     "location": "Teknaf"
   },
@@ -17,6 +19,7 @@
     "name": "Teknaf to Rangamati",
     "description": "Our special service for all the tour lovers.You can enjoy a special service in this tour.Most interesting family tours for you.",
     "price": 4000,
+    "viewCount":0,
     "status": "in-service",
     "location": "Teknaf"
   },
@@ -24,6 +27,7 @@
     "name": "Dhaka to Sylhet",
     "description": "Our special service for all the tour lovers.You can enjoy a special service in this tour.Most interesting family tours for you.",
     "price": 5000,
+    "viewCount":0,
     "status": "out-of-service",
     "location": "Dhaka"
   },
@@ -31,6 +35,7 @@
     "name": "Dhaka to Bandarban",
     "description": "Our special service for all the tour lovers.You can enjoy a special service in this tour.Most interesting family tours for you.",
     "price": 12000,
+    "viewCount":0,
     "status": "in-service",
     "location": "Dhaka"
   },
@@ -38,6 +43,7 @@
     "name": "Bandarban to Sylhet",
     "description": "Our special service for all the tour lovers.You can enjoy a special service in this tour.Most interesting family tours for you.",
     "price": 7000,
+    "viewCount":0,
     "status": "in-service",
     "location": "Bandarban"
   },
@@ -45,6 +51,7 @@
     "name": "Dhaka to Dubai",
     "description": "Our special service for all the tour lovers.You can enjoy a special service in this tour.Most interesting family tours for you.",
     "price": 100000,
+    "viewCount":0,
     "status": "in-service",
     "location": "Dhaka"
   },
@@ -53,6 +60,7 @@
     "name": "Chittagong to Rajshahi",
     "description": "Our special service for all the tour lovers.You can enjoy a special service in this tour.Most interesting family tours for you.",
     "price": 20000,
+    "viewCount":0,
     "status": "in-service",
     "location": "Chittagong"
   },
@@ -61,6 +69,7 @@
     "name": "Mymenshing to Rajshahi",
     "description": "Our special service for all the tour lovers.You can enjoy a special service in this tour.Most interesting family tours for you.",
     "price": 8000,
+    "viewCount":0,
     "status": "in-service",
     "location": "Mymenshing"
   },
@@ -68,6 +77,7 @@
     "name": "Mymenshing to Kuakata",
     "description": "Our special service for all the tour lovers.You can enjoy a special service in this tour.Most interesting family tours for you.",
     "price": 18000,
+    "viewCount":0,
     "status": "in-service",
     "location": "Mymenshing"
   },
@@ -75,6 +85,7 @@
     "name": "Gazipur to Sylhet",
     "description": "Our special service for all the tour lovers.You can enjoy a special service in this tour.Most interesting family tours for you.",
     "price": 7000,
+    "viewCount":0,
     "status": "in-service",
     "location": "Gazipur"
   },
@@ -82,6 +93,7 @@
     "name": "Gazipur to Coxbazar",
     "description": "Our special service for all the tour lovers.You can enjoy a special service in this tour.Most interesting family tours for you.",
     "price": 14000,
+    "viewCount":0,
     "status": "in-service",
     "location": "Gazipur"
   },
@@ -89,6 +101,7 @@
     "name": "Gazipur to Dhaka",
     "description": "Our special service for all the tour lovers.You can enjoy a special service in this tour.Most interesting family tours for you.",
     "price": 4000,
+    "viewCount":0,
     "status": "out-of-service",
     "location": "Gazipur"
   },
@@ -96,6 +109,7 @@
     "name": "Sylhet to Dhaka",
     "description": "Our special service for all the tour lovers.You can enjoy a special service in this tour.Most interesting family tours for you.",
     "price": 5000,
+    "viewCount":0,
     "status": "out-of-service",
     "location": "Sylhet"
   },
@@ -103,6 +117,7 @@
     "name": "Dhaka to Comilla",
     "description": "Our special service for all the tour lovers.You can enjoy a special service in this tour.Most interesting family tours for you.",
     "price": 11000,
+    "viewCount":0,
     "status": "out-of-service",
     "location": "Dhaka"
   }
