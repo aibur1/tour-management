@@ -8,11 +8,9 @@ app.use(cors());
 
 // routes
 const toursRoute = require('./routes/v1/tours.routes');
-const tourRoute = require('./routes/v1/tour.routes');
 
 // posting to database
-app.use('/api/v1/tours', toursRoute);
-app.use('/api/v1/tour', tourRoute);
+app.use('/api/v1', toursRoute);
 
 app.get('/', (req, res) => {
     res.send('Route is working!very fine!');

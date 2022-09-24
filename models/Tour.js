@@ -39,7 +39,7 @@ const TourSchema = mongoose.Schema(
     },
     {
         timestamps: true,
-    }
+    },
 );
 
 const Tour = mongoose.model('Tour', TourSchema);
